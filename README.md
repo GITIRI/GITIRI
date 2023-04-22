@@ -6,7 +6,7 @@ Hi there, I'm Patricia👋
 
 ⚡ My Portfolio
 
-❤️ Fun fact: I love hiking in walking,reading and cooking 
+❤️ Fun fact: I love walking,reading and cooking 
 
 Connect with me:
 
