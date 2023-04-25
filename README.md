@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GITIRI?tab=repositories](https://github.com/GITIRI?tab=repositories)
+- 👨‍💻 All of my projects are available at [portfolio projects](https://github.com/GITIRI?tab=repositories)
 
 - 💬 Ask me about **SQL, Python,Excel & Power BI (For Data Analytics)**
 
-- ⚡ Fun fact **I love long walks,reading and cooking**
+- ⚡ Fun fact: **I love long walks,reading and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
